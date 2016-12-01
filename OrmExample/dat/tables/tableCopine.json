@@ -1,0 +1,13 @@
+{
+  "tableName" : "tableCopine",
+  "values" : [ {
+    "columnName" : "nom",
+    "type" : "string"
+  }, {
+    "columnName" : "_id",
+    "type" : "integer"
+  }, {
+    "columnName" : "isDeleted",
+    "type" : "boolean"
+  } ]
+}

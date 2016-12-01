@@ -1,0 +1,22 @@
+{
+  "tableName" : "tableUser",
+  "values" : [ {
+    "columnName" : "firstName",
+    "type" : "string"
+  }, {
+    "columnName" : "lastName",
+    "type" : "string"
+  }, {
+    "columnName" : "telephoneNumber",
+    "type" : "integer"
+  }, {
+    "columnName" : "_id",
+    "type" : "integer"
+  }, {
+    "columnName" : "isDeleted",
+    "type" : "boolean"
+  }, {
+    "columnName" : "_tableBanque",
+    "type" : "integer"
+  } ]
+}

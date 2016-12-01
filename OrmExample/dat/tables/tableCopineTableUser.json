@@ -1,0 +1,16 @@
+{
+  "tableName" : "tableCopineTableUser",
+  "values" : [ {
+    "columnName" : "_tableCopineid",
+    "type" : "integer"
+  }, {
+    "columnName" : "_tableUserid",
+    "type" : "integer"
+  }, {
+    "columnName" : "_id",
+    "type" : "integer"
+  }, {
+    "columnName" : "isDeleted",
+    "type" : "boolean"
+  } ]
+}

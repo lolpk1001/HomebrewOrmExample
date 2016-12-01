@@ -1,0 +1,19 @@
+{
+  "tableName" : "tableDossier",
+  "values" : [ {
+    "columnName" : "nom",
+    "type" : "string"
+  }, {
+    "columnName" : "infos",
+    "type" : "string"
+  }, {
+    "columnName" : "_id",
+    "type" : "integer"
+  }, {
+    "columnName" : "isDeleted",
+    "type" : "boolean"
+  }, {
+    "columnName" : "_tableUser",
+    "type" : "integer"
+  } ]
+}
